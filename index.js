@@ -1,4 +1,4 @@
-let nomeHeroi = ("Mkeena")
+let nomeHeroi = "Mkeena";
 let quantidadeDeXP = 1500
 let nivel = "";
 
@@ -30,8 +30,8 @@ else if (quantidadeDeXP <= 10000) {
     nivel = "Imortal";
 }
 
-else  (quantidadeDeXP => 10001) {
+else {
     nivel = "Radiante";
 }
 
-console.log(" O herói de nome " + nomeHeroi + " está no nível " + nivel + " com " + quantidadeDeXP + " de XP ")
+console.log(" O herói de nome " + nomeHeroi + " está no nível " + nivel + " com " + quantidadeDeXP + " de XP ");

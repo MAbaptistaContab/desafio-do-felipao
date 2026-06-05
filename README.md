@@ -3,8 +3,10 @@ Este projeto marca o meu primeiro desafio de código na jornada de Engenharia de
 
 
 
+
 📝 Objetivo
 Criar uma variável para armazenar o nome e a quantidade de XP de um herói e, utilizando uma estrutura de decisão (if/else if), classificar o nível do herói em categorias como Ferro, Bronze, Prata, Ouro, Platina, Ascendente, Imortal ou Radiante.
+
 
 
 
@@ -17,6 +19,7 @@ VS Code (Ambiente de desenvolvimento)
 
 
 
+
 🛠️ O que aprendi?
 Lógica de Fluxo: A importância da ordem das verificações em estruturas de decisão.
 
@@ -25,6 +28,7 @@ Sintaxe: Como lidar com concatenação de strings e operadores lógicos.
 Git Workflow: Prática de comandos init, add, commit e push para enviar projetos ao GitHub.
 
 Resolução de Problemas: Aprender a ler erros do console e corrigir detalhes como espaços e aspas.
+
 
 
 

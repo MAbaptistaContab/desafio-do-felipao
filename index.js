@@ -3,27 +3,27 @@ let quantidadeDeXP = 1500
 let nivel = "";
 
 if (quantidadeDeXP < 1000) {
-nivel = "Ferro";
+    nivel = "Ferro";
 }
 
 else if (quantidadeDeXP <= 2000) {
-nivel = "Bronze";
+    nivel = "Bronze";
 }
 
 else if (quantidadeDeXP <= 5000) {
-nivel = "Prata";
+    nivel = "Prata";
 }
 
 else if (quantidadeDeXP <= 7000) {
-nivel = "Ouro";
+    nivel = "Ouro";
 }
 
 else if (quantidadeDeXP <= 8000) {
-nivel = "Platina";
+    nivel = "Platina";
 }
 
 else if (quantidadeDeXP <= 9000) {
-nivel = "Ascendente";
+    nivel = "Ascendente";
 }
 
 else if (quantidadeDeXP <= 10000) {
